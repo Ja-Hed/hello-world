@@ -1,2 +1,2 @@
 # hello-world
-My first GitHub input
+This is the new version of "My first GitHub input". Which would make this "my second GitHub input".
